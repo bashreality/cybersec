@@ -1,9 +1,7 @@
 
-# Penetration Testing Cookbook - Part 1
+# Penetration Testing Cookbook
 
 This document serves as a reference for various penetration testing commands and techniques.
-
----
 
 #Diagnozowanie podejrzanych .doc
 ```bash
